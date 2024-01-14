@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔞️🏰️[🇴.🇸]🏳️‍🌈️💾️🔞️ The official source repository for VRedRoomOS, an operating system environment wrapped around VRedRoom, making an erotic operating system environment. This project is NSFW.
